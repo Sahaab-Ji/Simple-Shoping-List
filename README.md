@@ -16,8 +16,8 @@ This is a lightweight, responsive **Simple Shopping List Application** built usi
 ### ✨ Key Features
 *   **Dynamic Item Addition:** Add items to your shopping list smoothly.
 *   **Easy Item Removal:** Remove items instantly with a click.
-*   **Clean & Responsive UI:** Optimized layout that looks great on mobile and desktop.
-*   **Beginner-Friendly Codebase:** Well-structured, commented code designed for easy learning.
+*   **Clean & Responsive UI:** Optimized layout that looks great on mobile.
+*   **Beginner-Friendly Codebase:** Well-structured for easy learning.
 
 ---
 
