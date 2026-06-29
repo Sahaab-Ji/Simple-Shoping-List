@@ -2,7 +2,7 @@
 
 A beginner-friendly Vanilla JavaScript Shopping List project practicing DOM manipulation, event handling, and clean CSS styling. Perfect for frontend web development learners! 🚀
 
-<img width="159" height="348" alt="image" src="https://github.com/user-attachments/assets/1ce96d1e-6718-43ed-a335-74e32e2f049e" />
+<p align="center"><img width="139" height="298" alt="image" src="https://github.com/user-attachments/assets/1ce96d1e-6718-43ed-a335-74e32e2f049e" /></p>
 
 
 If you find this repository helpful for your learning journey, please consider giving it a ⭐ **Star** to support the project!
