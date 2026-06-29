@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    background-color: aqua;
+    position: fixed;
+    left: 0;
+    right: 0;
+    border-bottom: 1.5px solid black;
+    display: flex;
+    gap: 7px;
+    justify-content: center;
+}
+
+.input-div{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border-top: 1.5px solid black;
+    border-bottom: 1.5px solid black;
+    padding: 10px;
+}
+
+#item-input{
+   height: 3rem;
+   margin-bottom: 15px;
+   border: 1.5px solid black;
+   border-radius: 5px;
+   padding: 12px;
+   margin-top: 15px;
+}
+
+.input-btn{
+    height: 3rem;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    background-color: aqua;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+
+.ol-list{
+    padding-top: 5rem;
+}
+
+.input-label{
+   z-index: 1000;
+   position: absolute;
+   background-color: white;
+   top: 14px;
+   left: 20px;
+   padding: 0  5px;
+}
+
+.ol-list > li {
+    font-size: 20px;
+    padding: 12px;
+    margin-left: 35px;
+}
+
+.logo{
+    width: 35px;
+}
+
+.svg{
+    width: 20px;
+}
+
+.close-icon{
+    width: 26px;
+    color: red;
+}
+
+.close-btn{
+    position: absolute;
+    right: 30px;
+    height: 24px;
+    width: 24px;
+    background-color: transparent;
+    border: none;
+}
